@@ -1,0 +1,11 @@
+# KiCad 自动生成的个人设置、缓存和历史文件
+*.kicad_prl
+*.lck
+_autosave-*
+*.kicad_sch-bak
+*-backups/
+.history/
+logs/
+fp-info-cache
+*.db-wal
+*.db-shm
